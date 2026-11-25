@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T07:41:33.084Z",
+  "slug": "bay-plumbing",
+  "name": "Bay Plumbing & Drainage",
+  "city": "Tauranga",
+  "industry": {
+    "niche": "plumber"
+  },
+  "contact": {
+    "phone": "075550123",
+    "email": "info@bayplumbing.example",
+    "address": "12 Marine Parade, Mount Maunganui",
+    "hours": [
+      "Mon - Fri: 7am - 5pm"
+    ]
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/bayplumbingdemo",
+    "instagram": "https://www.instagram.com/bayplumbingdemo"
+  },
+  "about": {
+    "overview": "Family-owned plumbers serving Tauranga and the Bay of Plenty: hot water, drainage and bathroom plumbing.",
+    "tagline": "Plumbing you can trust",
+    "services": [
+      "Hot water systems",
+      "Blocked drains",
+      "Bathroom renovations",
+      "Emergency call-outs"
+    ]
+  },
+  "before": {
+    "url": "http://127.0.0.1:53657/bay/",
+    "domain": "bayplumbing.example",
+    "finalUrl": "http://127.0.0.1:53657/bay/",
+    "title": "Bay Plumbing & Drainage | Tauranga",
+    "pages": 3,
+    "score": 33,
+    "assessedAt": "2026-11-10T08:45:28.070Z",
+    "issues": [
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "stale-copyright",
+        "title": "Looks out of date",
+        "evidence": "Footer copyright reads 2018, 8 years ago."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/bay-plumbing-drainage/",
+    "repoUrl": "https://github.com/tova-studio/bay-plumbing-drainage",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T07:41:33.084Z"
+  }
+}
